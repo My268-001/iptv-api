@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 18:52:24,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-15 06:41:27,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
@@ -7,7 +7,10 @@ CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
+CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=cq
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=cq
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
