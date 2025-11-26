@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/My268-001/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-26 18:24:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-27 06:19:06
 https://www.freetv.top/migu/609006487.m3u8?migutoken=aa6b7733654f88e6bc50f2966887b2eb428623c5d6d66fe9d0fc7de43f9aa6a724f12ec1f0d65aae1c1decba5cd1444cbdea8c24adbc56c5a79a1dbd2828e6deb293dace8a518080d5d1f0cb2b
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://www.freetv.top/migu/609006487.m3u8?migutoken=aa6b7733654f88e6bc50f2966887b2eb428623c5d6d66fe9d0fc7de43f9aa6a724f12ec1f0d65aae1c1decba5cd1444cbdea8c24adbc56c5a79a1dbd2828e6deb293dace8a518080d5d1f0cb2b
@@ -15,3 +15,5 @@ https://www.freetv.top/migu/608807423.m3u8?migutoken=62d2214274cef7d40b4114d45bf
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c02d6805bd52cc36e4d16a29031a320eaed60d6d74d5b36653a81c659450938ab30e91f4b27468f176d304463164c178f446ff6d44d623dd787da315c58de6d4d0010bb1
