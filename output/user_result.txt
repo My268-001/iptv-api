@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-04 18:23:48,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-05 06:17:41,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
@@ -15,7 +15,7 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=7270a64d821d9de391cdabdf9685e61de5c0929c8486a24ac167aea6279189e5577fd24dce303030fbf1bec432df053fc57698fb48b6285a78bab608e954345314604511e497b104c51f5dc0cd
-CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
+CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
