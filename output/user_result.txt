@@ -1,25 +1,12 @@
 🕘️更新时间,#genre#
-2025-12-24 18:22:33,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
+2025-12-25 06:20:02,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
-CCTV-1,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
-CCTV-2,http://yp.qqqtv.top/1/api.php?id=CCTV-2%E8%B4%A2%E7%BB%8F&auth=666858
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
-CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
-CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8
-CCTV-9,https://v4-681c4e93f62c2089d39b368c6a1858bd.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=225d94294ff0ad750b2fe7fe653419c0
-CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
-CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8
-CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8
+CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=a099c4781935e65ce141b770794c3b43ae66c9cff99a441ab85b8a676ceb9472ea0e60b610403e97c019904f7c814c2524dc1f8f884664706b7b5a1ce4fd076c7f8c776c9d73f4a0fc12b259f3
-CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -29,5 +16,5 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
