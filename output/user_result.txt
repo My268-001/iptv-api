@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-04 06:19:18,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-01-04 18:20:17,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90b7dd0c1e8956cfe5ebd41a34e882d1
 
 📺央视频道,#genre#
+CCTV-9,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90b7dd0c1e8956cfe5ebd41a34e882d1
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
