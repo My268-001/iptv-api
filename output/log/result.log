@@ -1,6 +1,7 @@
-Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2349 ms, Speed: 1.22 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2214 ms, Speed: 1.29 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 493 ms, Speed: 0.01 M/s, Resolution: None
-Name: CETV-1, URL: http://112.254.55.106:22222/rtp/239.253.254.110:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 479 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: CETV-3, URL: http://183.220.107.138:4022/rtp/239.11.0.247:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 456 ms, Speed: 0.31 M/s, Resolution: 720x576
-Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 491 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-9, URL: https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5fffe4d5ef1d5d3c94e4ee61cd25fe24, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 811 ms, Speed: 0.05 M/s, Resolution: 720x576
+Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2124 ms, Speed: 1.38 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2297 ms, Speed: 1.20 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 441 ms, Speed: 0.02 M/s, Resolution: None
+Name: CETV-1, URL: http://112.254.55.106:22222/rtp/239.253.254.110:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 417 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: CETV-3, URL: http://183.220.107.138:4022/rtp/239.11.0.247:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 413 ms, Speed: 0.32 M/s, Resolution: 720x576
+Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1514 ms, Speed: 0.03 M/s, Resolution: None
