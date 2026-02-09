@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-09 06:26:05,https://iptv.catvod.com/live.php?id=CCTV1&line=10
+2026-02-10 06:34:49,https://iptv.catvod.com/live.php?id=CCTV1&line=10
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=10
@@ -14,6 +14,7 @@ CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=10
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
@@ -44,6 +45,5 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
-CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
