@@ -1,26 +1,26 @@
 🕘️更新时间,#genre#
-2026-02-12 06:32:02,https://iptv.catvod.com/live.php?id=CCTV1&line=10
+2026-02-12 18:44:18,https://iptv.catvod.com/live.php?id=CCTV1&line=10
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=10
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=10
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=1
-CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=10
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=1
-CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=10
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=1
