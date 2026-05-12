@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-12 19:54:55,https://iptv.catvod.com/live.php?id=CCTV1&line=14
+2026-05-13 07:00:14,https://iptv.catvod.com/live.php?id=CCTV1&line=14
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=14
@@ -7,15 +7,14 @@ CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=11
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=2
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=3
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8
