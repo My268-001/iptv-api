@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-06-04 07:42:51,https://iptv.catvod.com/live.php?id=CCTV1&line=14
+2026-06-04 20:44:15,https://iptv.catvod.com/live.php?id=CCTV1&line=14
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=14
-CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
@@ -22,7 +22,6 @@ CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://pull-f5.douyinliving.com/media/stream-695910577918968658.flv?expire=1780564780&sign=ebb59e73ca90b4a2b1145c2119c27037&volcSecret=ebb59e73ca90b4a2b1145c2119c27037&volcTime=1780564780&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695910577918968658_850_flv&t_id=037-202605281719407F41169D2C67DC3AB647-6ZbQfN
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=12
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=2
@@ -33,7 +32,7 @@ CCTV-15,http://www.negative.top:50000/rtp/233.50.200.133:5140
 CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=2
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
