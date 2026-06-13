@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-06-13 19:54:03,https://iptv.catvod.com/live.php?id=CCTV1&line=14
+2026-06-14 07:03:31,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=14
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=14
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=11
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=2
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3dd8071f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
