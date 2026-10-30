@@ -1,5 +1,6 @@
-Category: 📺央视频道, Name: CCTV-10, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1519 ms, Max Speed: 0.79 M/s, Avg Speed: 0.72 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2000 ms, Max Speed: 1.45 M/s, Avg Speed: 1.45 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1883 ms, Max Speed: 1.56 M/s, Avg Speed: 1.56 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-1, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 84 ms, Max Speed: 19.39 M/s, Avg Speed: 9.03 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-3, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 328 ms, Max Speed: 2.46 M/s, Avg Speed: 1.39 M/s, Max Resolution: 720x576
+Category: 📺央视频道, Name: CCTV-9, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1129 ms, Max Speed: 0.16 M/s, Avg Speed: 0.16 M/s, Max Resolution: 720x576
+Category: 📺央视频道, Name: CCTV-10, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2252 ms, Max Speed: 0.67 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-13, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2499 ms, Max Speed: 1.26 M/s, Avg Speed: 1.26 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 2810 ms, Max Speed: 1.18 M/s, Avg Speed: 1.18 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-1, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 354 ms, Max Speed: 14.73 M/s, Avg Speed: 6.34 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-3, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 439 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: 720x576
